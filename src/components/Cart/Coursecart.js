@@ -40,7 +40,8 @@ export default class Coursecart extends Component {
   data-item-description={node.description.description}
   data-item-image={node.image.url}
   data-item-name={node.title}
-                        className="btn btn-warning snipcart-add-item">
+                        className="btn btn-warning snipcart-add-item"
+                        >
                            Join Now 
                         </button>
                        </div>
